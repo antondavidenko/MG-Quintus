@@ -1,0 +1,73 @@
+var LevelsList = function() 
+{
+	this.lists =  [[{assetId:5, x:2, y:3},
+					{assetId:6, x:5, y:2},
+					{assetId:6, x:5, y:3},
+					{assetId:6, x:5, y:4}],
+					
+				   [{assetId:2, x:3, y:3},
+					{assetId:11, x:6, y:1},
+					{assetId:11, x:6, y:3},
+					{assetId:11, x:6, y:5},
+					{assetId:11, x:0, y:1},
+					{assetId:11, x:0, y:3},
+					{assetId:11, x:0, y:5}],
+					
+				   [{assetId:3, x:3, y:3},
+					{assetId:0, x:4, y:3},
+					{assetId:0, x:2, y:3},
+					{assetId:0, x:3, y:4},
+					{assetId:0, x:3, y:2},
+					{assetId:8, x:7, y:0},
+					{assetId:8, x:7, y:7},
+					{assetId:8, x:0, y:7},
+					{assetId:8, x:0, y:0}],					
+					
+				   [{assetId:1, x:0, y:3},
+					{assetId:1, x:0, y:4},
+					{assetId:8, x:7, y:0},
+					{assetId:9, x:7, y:1},
+					{assetId:9, x:7, y:2},
+					{assetId:8, x:7, y:3},
+					{assetId:8, x:7, y:4},
+					{assetId:9, x:7, y:5},
+					{assetId:9, x:7, y:6},
+					{assetId:8, x:7, y:7}],
+					
+				   [{assetId:4, x:1, y:3},
+				    {assetId:4, x:2, y:3},
+				    {assetId:4, x:3, y:3},
+					{assetId:7, x:0, y:0},
+					{assetId:7, x:1, y:0},
+					{assetId:9, x:1, y:0},
+					{assetId:9, x:1, y:0},
+					{assetId:6, x:0, y:0},
+					{assetId:6, x:1, y:0},
+					{assetId:6, x:0, y:0},
+					{assetId:6, x:1, y:0},
+					{assetId:6, x:0, y:0},
+					{assetId:6, x:1, y:0},					
+					{assetId:11, x:0, y:0},
+					{assetId:11, x:1, y:0},						
+					{assetId:11, x:1, y:0},						
+					{assetId:8, x:2, y:0},					
+					{assetId:8, x:2, y:0},
+					{assetId:8, x:3, y:0}],	
+					
+/*					
+				   [{assetId:0, x:0, y:0},
+					{assetId:1, x:0, y:1},
+					{assetId:2, x:0, y:2},
+					{assetId:3, x:0, y:3},
+					{assetId:4, x:0, y:4},
+					{assetId:5, x:0, y:5},
+					{assetId:6, x:7, y:0},
+					{assetId:7, x:7, y:1},
+					{assetId:8, x:7, y:2},
+					{assetId:9, x:7, y:3},
+					{assetId:10, x:7, y:4},
+					{assetId:11, x:7, y:5}]
+*/					
+					];
+					
+}
